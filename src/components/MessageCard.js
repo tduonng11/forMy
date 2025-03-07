@@ -195,7 +195,7 @@ const messages = [
     "Tớ sợ cậu chỉ trả lời tớ một cách lịch sự.",
     "Sợ tớ không phải là người mà cậu muốn trò chuyện.",
     "Thi thoảng có hôm mất ngủ ra ngoài ngồi tay vẫn hay bấm vào các trang mạng xã hội của cậu.",
-    "Xem đi xem lại các video cậu đăng lên, nghe có vẻ hơi cấn cấn đúng không."
+    "Xem đi xem lại các video cậu đăng lên, nghe có vẻ hơi cấn cấn đúng không.",
     "Tớ muốn kể cho cậu nghe một ngày của tớ như thế nào và cũng muốn hỏi cậu như vậy.",
     "Nhưng mỗi lần vào đoạn chat thì tớ lại không biết nhắn gì và nên bắt đầu từ đâu.",
     "Tớ chỉ biết ngồi trước màn hình điện thoại rồi lại tắt đi.",
@@ -224,7 +224,7 @@ const messages = [
     "Vậy nên là hẹn cậu có dịp tớ sẽ nói ra những điều còn lại nhé.",
     "Tớ có mua quà cho cậu nhưng có lẽ họ giao không đúng ngày rồi:((",
     "Thôi thì cái trang wep này thay thế cho món quà của tớ nhé hihihihihi.",
-    "Hôm nay là ngày rất đặc biệt với cậu và tất cả các cô gái ngoài kia, đối với tớ cậu ngày nào cũng đặc biệt và mong cho các cô gái ngoài kia ai cũng xứng đáng có một người nào đó khiến mình cảm thấy đặc biệt.Chúc cậu luôn vui vẻ, xinh đẹp, được nhiều yêu thương và hạnh phúc, tớ cũng mong người khiến cậu hạnh phúc là tớ." 
+    "Hôm nay là ngày rất đặc biệt với cậu và tất cả các cô gái ngoài kia, đối với tớ cậu ngày nào cũng đặc biệt và mong cho các cô gái ngoài kia ai cũng xứng đáng có một người nào đó khiến mình cảm thấy đặc biệt.Chúc cậu luôn vui vẻ, xinh đẹp, được nhiều yêu thương và hạnh phúc, tớ cũng mong người khiến cậu hạnh phúc là tớ.", 
     "Mong rằng câu thích món quà tớ tự làm này nha."
 ];
 
