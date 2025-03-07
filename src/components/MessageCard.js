@@ -217,6 +217,7 @@ const messages = [
     "Tớ thực sự quan tâm và không muốn mối quan hệ này chỉ là điều thoáng qua.",
     "Tớ không muốn suy đoán hay tự diễn mà chỉ là.",
     "Tớ muốn hiểu cậu nhiều hơn mà thôi, muốn biết giữa chúng ta vẫn còn sự trân thành.",
+    "Hôm sinh nhật Nhi tớ định ăn xong rồi rủ cậu ra ngồi nói chuyện nhưng lúc đấy ai cũng say hết rồi nên đành thôi vậy.", 
     "Đến đây chắc là cậu cũng hiểu kha khá rồi ha.",
     "Còn rất nhiều điều mà tớ muốn nói nữa.",
     "Nhưng đến đây là dài quá rồi sợ cậu thấy chán thấy phiền có thể là thấy tốn thời gian nữa....",
