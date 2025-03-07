@@ -224,7 +224,8 @@ const messages = [
     "Vậy nên là hẹn cậu có dịp tớ sẽ nói ra những điều còn lại nhé.",
     "Tớ có mua quà cho cậu nhưng có lẽ họ giao không đúng ngày rồi:((",
     "Thôi thì cái trang wep này thay thế cho món quà của tớ nhé hihihihihi.",
-  "Hôm nay là ngày rất đặc biệt với cậu và tất cả các cô gái ngoài kia, đối với tớ cậu ngày nào cũng đặc biệt và mong cho các cô gái ngoài kia ai cũng xứng đáng có một người khiến mình cảm thấy đặc biệt.Chúc cậu luôn vui vẻ, xinh đẹp, được nhiều yêu thương và hạnh phúc, tớ cũng mong người khiến cậu hạnh phúc là tớ.", 
+    "Hôm nay là ngày rất đặc biệt với cậu và tất cả các cô gái ngoài kia.",
+    "Còn đối với tớ cậu ngày nào cũng đặc biệt và mong cho các cô gái ngoài kia ai cũng xứng đáng có một người khiến mình cảm thấy đặc biệt.Chúc cậu luôn vui vẻ, xinh đẹp, được nhiều yêu thương và hạnh phúc, tớ cũng mong người khiến cậu hạnh phúc là tớ",
     "Mong rằng câu thích món quà tớ tự làm này nha."
 ];
 
