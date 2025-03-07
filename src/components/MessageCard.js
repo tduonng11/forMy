@@ -187,7 +187,7 @@ const messages = [
     "Mong cậu đọc hết những lời này có hơi dài chút:vv cảm ơn nha.",
     "Tớ là người giữ quan điểm trong chuyện tình cảm chung thủy ngay từ đầu bước tìm hiểu thích ai thì chỉ thích một người.",
     "Tớ không muốn nhắn tin với nhiều người con gái cùng một lúc. Không phải là ai tớ cũng thích tớ không phải là người dễ rung động.",
-    "Nhưng với cậu thì khác kiểu tớ bị thu hút, muốn tìm hiểu nhiều hơn hmmmm cảm giác lạ thật."
+    "Nhưng với cậu thì khác kiểu tớ bị thu hút, muốn tìm hiểu nhiều hơn hmmmm cảm giác lạ thật.",
     "Đôi khi tớ thể hiện tình cảm có hơi thái quá.",
     "Nhưng đó không phải là cố ý đâu mà đó là cách tớ thể hiện cảm xúc với người tớ thương.",
     "Vậy nên tớ có làm điều gì khiến cậu khó chịu thì cho tớ xin lỗi nhé.........",
