@@ -187,7 +187,7 @@ const messages = [
     "Mong cậu đọc hết những lời này có hơi dài chút:vv cảm ơn nha.",
     "Tớ là người giữ quan điểm trong chuyện tình cảm chung thủy ngay từ đầu bước tìm hiểu thích ai thì chỉ thích một người.",
     "Tớ không muốn nhắn tin nhiều với người cùng một lúc. Đôi khi tớ thể hiện tình cảm có hơi thái quá.",
-    "Nhưng đó không phải là cố ý đụng chạm mà đó là cách tớ thể hiện cảm xúc với người tớ thương.",
+    "Nhưng đó không phải là cố ý đâu mà đó là cách tớ thể hiện cảm xúc với người tớ thương.",
     "Vậy nên tớ có làm điều gì khiến cậu khó chịu thì cho tớ xin lỗi nhé.........",
     "Mấy ngày nay tớ không chủ động nhắn cho cậu, không phải vì 'không nhớ' cậu mà.",
     "Tớ sợ cậu chỉ trả lời tớ một cách lịch sự.",
@@ -217,9 +217,9 @@ const messages = [
     "Còn rất nhiều điều mà tớ muốn nói nữa.",
     "Nhưng đến đây là dài quá rồi sợ cậu thấy chán thấy phiền có thể là thấy tốn thời gian nữa....",
     "Vậy nên là hẹn cậu có dịp tớ sẽ nói ra những điều còn lại nhé.",
-    "Tớ có mua quà cho cậu nhưng có lẽ họ giao không đúng ngày rồi.",
-    "Thôi thì cái trang wep này thay thế cho món quà của tớ nhé hihihihihihi.",
-    "Mong câu thích món quà tớ tự làm này"
+    "Tớ có mua quà cho cậu nhưng có lẽ họ giao không đúng ngày rồi:((.",
+    "Thôi thì cái trang wep này thay thế cho món quà của tớ nhé hihihihihi.",
+    "Mong rằng câu thích món quà tớ tự làm này nha"
 ];
 
 // Then update the MessageCard component to accept and pass the prop:
