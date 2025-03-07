@@ -192,6 +192,8 @@ const messages = [
     "Mấy ngày nay tớ không chủ động nhắn cho cậu, không phải vì 'không nhớ' cậu mà.",
     "Tớ sợ cậu chỉ trả lời tớ một cách lịch sự.",
     "Sợ tớ không phải là người mà cậu muốn trò chuyện.",
+    "Thi thoảng có hôm mất ngủ ra ngoài ngồi tay vẫn hay bấm vào các trang mạng xã hội của cậu.",
+    "Xem đi xem lại các video cậu đăng lên, nghe có vẻ hơi cấn cấn đúng không."
     "Tớ muốn kể cho cậu nghe một ngày của tớ như thế nào và cũng muốn hỏi cậu như vậy.",
     "Nhưng mỗi lần vào đoạn chat thì tớ lại không biết nhắn gì và nên bắt đầu từ đâu.",
     "Tớ chỉ biết ngồi trước màn hình điện thoại rồi lại tắt đi.",
